@@ -24,7 +24,7 @@ Vis en visuell representasjon av alfabetet under inputfeltet for å hjelpe barne
 Test appen grundig for å sikre at den fungerer korrekt på ulike enheter og skjermstørrelser. 
 Samle tilbakemeldinger fra barn og pedagoger for å iterere på designet og forbedre brukervennligheten.
 
-------------------ENGLISH TRANSLATION---------------------------------------
+## ------------------ENGLISH TRANSLATION--------------------
 
 ## Purpose
 I have created an interactive page with tables where the child can enter words that follow specific rules. This is not a game in the traditional sense but rather an interactive tool.
