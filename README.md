@@ -1,30 +1,13 @@
 ## Hensikt
 Jeg har laget en interaktiv side med tabeller der barnet kan skrive inn ord som følger bestemte regler. Dette er ikke et spill i tradisjonell forstand, men et interaktivt verktøy.
 
-Barnet kan legge til ord som begynner med en bokstav, og bokstavene som kommer etter denne er enten konsonanter eller vokaler, slik at ordet blir kategorisert i de riktige tabellene. Det er også mulig å slette ord om nødvendig.
+Barnet kan legge til ord som begynner med en bokstav, og bokstavene som kommer etter denne er enten konsonanter eller vokaler, slik at ordet blir kategorisert i de riktige tabellene. Det er også mulig å slette ordene om nødvendig. Selv om dette ikke er et spill, er hovedformålet et læringsverktøy som er en del av en større pedagogisk aktivitet. 
 
-Selv om dette ikke er et spill, er hovedformålet et læringsverktøy som er en del av en større pedagogisk aktivitet. Målet er å hjelpe barnet med å forstå ordmønstre og øve på ordgjenkjenning.
+Målet er å hjelpe barnet med å forstå ordmønstre og øve på ordgjenkjenning. Den har ikke så mange bilder, animasjoner som gjør det enklere for barnet å kunne fokusere på det den skal gjøre.
 
 Dette er bare noen få ideer for å forbedre funksjonaliteten og engasjementet til barna. Det finnes utallige muligheter for videreutvikling og ekspansjon.
 
-Funksjoner
-Her er flere måter å utvide og forbedre denne interaktive nettsiden på:
-
-Poengsystem
-Et poengsystem som gir poeng for å skrive inn ord. Poengene kan tildeles basert på ordets lengde, kompleksitet, eller ved rask inntasting av ord.
-
-Tid
-En tidtaker som utfordrer brukerne til å legge inn mange gyldige ord innen en tidsgrense.
-
-Poengtavle
-Viser brukere med høyest poengsum eller de som skriver inn flest ord i løpet av en økt.
-
-Vanskelighetsnivå
-Introduser forskjellige vanskelighetsgrader med ulike regler eller begrensninger. På høyere vanskelighetsnivåer kan det kreves lengre ord eller ord som følger mer komplekse mønstre.
-
-Ledetråder
-Gi hint eller ledetråder for å hjelpe barnet med å identifisere gyldige ord. Dette kan innebære å vise de første bokstavene i et ord og be barnet fullføre det.
-
+Funksjoner, Poengsystem, Tid, Poengtavle, Vanskelighetsnivå, Ledetråder
 
 ## Hovedkomponenter
 Oppsett
