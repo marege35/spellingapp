@@ -10,35 +10,24 @@ Dette er bare noen få ideer for å forbedre funksjonaliteten og engasjementet t
 Funksjoner
 Her er flere måter å utvide og forbedre denne interaktive nettsiden på:
 
-2.0.1 Poengsystem
+Poengsystem
 Et poengsystem som gir poeng for å skrive inn ord. Poengene kan tildeles basert på ordets lengde, kompleksitet, eller ved rask inntasting av ord.
 
-2.0.2 Tid
+Tid
 En tidtaker som utfordrer brukerne til å legge inn mange gyldige ord innen en tidsgrense.
 
-2.0.3 Poengtavle
+Poengtavle
 Viser brukere med høyest poengsum eller de som skriver inn flest ord i løpet av en økt.
 
-2.0.4 Vanskelighetsnivå
+Vanskelighetsnivå
 Introduser forskjellige vanskelighetsgrader med ulike regler eller begrensninger. På høyere vanskelighetsnivåer kan det kreves lengre ord eller ord som følger mer komplekse mønstre.
 
-2.0.5 Ledetråder
+Ledetråder
 Gi hint eller ledetråder for å hjelpe barnet med å identifisere gyldige ord. Dette kan innebære å vise de første bokstavene i et ord og be barnet fullføre det.
 
-2.0.6 Flerspillermodus
-Implementer en flerspillermodus der brukere kan konkurrere mot hverandre i sanntid eller bytte på å legge inn ord.
 
-2.0.7 Ordkategorier
-Utvid tabellene til å inkludere ord fra ulike kategorier eller temaer, som dyr, frukt, land osv.
-
-2.0.8 Tilpasningsalternativer
-Gi brukerne muligheten til å tilpasse utseendet til tabellene, velge forskjellige temaer eller fargeskjemaer, og justere innstillinger som skriftstørrelse og tabelloppsett.
-
-2.0.9 Utdanningsressurser
-Integrer pedagogiske ressurser som definisjoner, uttaleveiledninger og eksempelsatser for ordene i tabellene.
-
-Hovedkomponenter
-2.1 Oppsett
+## Hovedkomponenter
+Oppsett
 Opprett et nytt Expo-prosjekt ved bruk av Expo CLI.
 
 Hovedside
