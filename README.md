@@ -35,8 +35,6 @@ The goal is to help the child understand word patterns and practice word recogni
 
 These are just a few ideas to improve functionality and engagement for children. There are countless possibilities for further development and expansion.
 
-Features: Scoring System, Timer, Scoreboard, Difficulty Levels, Hints
-
 ## Main Components
 Set up a new Expo project using the Expo CLI.
 The design includes a main page in the app that displays the alphabet from A to Ø as clickable links.
